@@ -59,7 +59,7 @@ Esta clase encapsula todas las operaciones relacionadas con Firebase.
 - `**delete(path: str)**`
   Elimina completamente el nodo especificado en la base de datos.
   
-<img width="358" height="179" alt="image" src="https://github.com/user-attachments/assets/61a9c8ff-8223-4142-a418-99b4b3d6bf57" />
+  <img width="358" height="179" alt="image" src="https://github.com/user-attachments/assets/61a9c8ff-8223-4142-a418-99b4b3d6bf57" />
 
 ---
 
